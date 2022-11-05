@@ -59,20 +59,26 @@ eiseg
 
 * 模型下载链接(https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.6/EISeg/docs/image.md)
 ![](https://github.com/GISer-Bao/EISeg-installation-use/blob/main/picture_shortcut/picture1.png)
+
+
 **3.2 载入模型权重。**
-在EISeg右上角点击“加载网络参数”按钮，加载刚刚下载的模型权重。
-![](media/111d859125f9f946119840d919eb73c7.png)
+
+* 在EISeg右上角点击“加载网络参数”按钮，加载刚刚下载的模型权重
+
+![](https://github.com/GISer-Bao/EISeg-installation-use/blob/main/picture_shortcut/picture2.png)
+
 
 **3.3 添加类别标签。**
-在EISeg右侧点击“添加标签”按钮，添加自己分割任务中的目标类别。
-![](media/51972ec7fb1b757fe97d156530b30a9d.png)
+
+* 在EISeg右侧点击“添加标签”按钮，添加自己分割任务中的目标类别
+![](https://github.com/GISer-Bao/EISeg-installation-use/blob/main/picture_shortcut/picture3.png)
 
 **3.4 标注图片**
 
 关于如何使用EISeg进行具体标注，以及EISeg相关快捷键的使用，请参考以下文章或视频，可能出现的问题或错误，文章（视频）中都有详细说明。
 
-1.  EISeg分割标注软件使用（[EISeg分割标注软件使用_太阳花的小绿豆的博客-CSDN博客](https://blog.csdn.net/qq_37541097/article/details/120154543?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166747936816782414919113%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166747936816782414919113&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-120154543-null-null.nonecase&utm_term=%E6%A0%87%E6%B3%A8&spm=1018.2226.3001.4450)）
-2.  EISeg简单教学（[eiseg简单教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dQ4y1674A/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)）
-3.  EISeg（[eiseg_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PR4y197Pk/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)）
+* [EISeg分割标注软件使用_太阳花的小绿豆的博客-CSDN博客](https://blog.csdn.net/qq_37541097/article/details/120154543?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166747936816782414919113%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166747936816782414919113&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-120154543-null-null.nonecase&utm_term=%E6%A0%87%E6%B3%A8&spm=1018.2226.3001.4450)
+* [eiseg简单教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dQ4y1674A/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)）
+* [eiseg_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PR4y197Pk/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)
 4.  好用的语义分割标注软件:Paddle-EISeg（[好用的语义分割标注软件:Paddle-EISeg_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1e8411Y78k/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)）
 5.  使用EISeg进行半自动图像分割标注/抠图/抠视频（[使用EISeg进行半自动图像分割标注/抠图/抠视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1944y1f7P1/?spm_id_from=333.337.search-card.all.click&vd_source=03252c088981228940ef0422a6ef7695)）

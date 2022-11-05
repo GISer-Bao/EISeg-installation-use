@@ -58,6 +58,7 @@ eiseg
 **3.1 下载模型预训练权重**
 
 * 模型下载链接(https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.6/EISeg/docs/image.md)
+
 ![](https://github.com/GISer-Bao/EISeg-installation-use/blob/main/picture_shortcut/picture1.png)
 
 
@@ -72,9 +73,7 @@ eiseg
 
 * 在EISeg右侧点击“添加标签”按钮，添加自己分割任务中的目标类别
 
-<div align=center>
 ![](https://github.com/GISer-Bao/EISeg-installation-use/blob/main/picture_shortcut/picture3.png)
-</div>
 
 **3.4 标注图片**
 
